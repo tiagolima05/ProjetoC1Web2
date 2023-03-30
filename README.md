@@ -25,7 +25,7 @@ Se você preferir não instalar o ts-node globalmente, pode instalá-lo localmen
 
 "dev": "set NODE_ENV=dev&&nodemon ./src/server.ts",
 
-##Rodando o projeto
+## Rodando o projeto
 
 Para transpilar o projeto, rode o comando tsc
 
